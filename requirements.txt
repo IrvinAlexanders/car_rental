@@ -8,3 +8,4 @@ future==0.18.2
 geocoder==1.38.1
 django-cors-headers==3.7.0
 djongo
+pymongo>=3.2.0
